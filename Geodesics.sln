@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0E3C4992-C58A-8442-43EC-4B20762289A3}") = "Geodesics", "Assembly-CSharp-firstpass.csproj", "{797A6345-EB11-E345-A9CB-8CE856F69910}"
+EndProject
+Project("{0E3C4992-C58A-8442-43EC-4B20762289A3}") = "Geodesics", "Assembly-CSharp.csproj", "{B84C9638-DF51-F25C-EECD-A467A4915166}"
+EndProject
+Project("{0E3C4992-C58A-8442-43EC-4B20762289A3}") = "Geodesics", "Assembly-CSharp-Editor.csproj", "{24038FCC-D547-3A6E-1054-5D16209DE2B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797A6345-EB11-E345-A9CB-8CE856F69910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797A6345-EB11-E345-A9CB-8CE856F69910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797A6345-EB11-E345-A9CB-8CE856F69910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797A6345-EB11-E345-A9CB-8CE856F69910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84C9638-DF51-F25C-EECD-A467A4915166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84C9638-DF51-F25C-EECD-A467A4915166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84C9638-DF51-F25C-EECD-A467A4915166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84C9638-DF51-F25C-EECD-A467A4915166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24038FCC-D547-3A6E-1054-5D16209DE2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24038FCC-D547-3A6E-1054-5D16209DE2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24038FCC-D547-3A6E-1054-5D16209DE2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24038FCC-D547-3A6E-1054-5D16209DE2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
