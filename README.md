@@ -1,6 +1,7 @@
 # Geodesics
 Geodesics is a small Unity3D game.
 The game has not been tested on the two newest versions of Android
+
 <strong>How to play</strong>
 <ul>
   <li>Use your planet to drag objects into your gravitational field</li>
